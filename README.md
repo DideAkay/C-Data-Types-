@@ -1,7 +1,3 @@
-# C-Data-Types-
+# C-Data-Types
 
-this is a test
-
-this is a test for commit
-
-this is a test for push
+a simple application to practice & implement some Data Types with C 
